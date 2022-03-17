@@ -1,0 +1,3 @@
+Acesso uma pasta a partir do diretório do usuario no bash linux:
+ 
+ls ~/.m2/repository/

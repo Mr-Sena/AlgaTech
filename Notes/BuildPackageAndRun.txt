@@ -1,0 +1,13 @@
+Empacotar JAR da aplicação java com comando Maven: 
+
+> mvn clean package
+
+
+Na pasta target será criado um arquivo .jar
+
+
+Para executar esse arquivo basta eecutar o comando 
+java -jar <pathFile>
+
+Exemplo:
+java -jar target/AlgaTech-0.0.1-SNAPSHOT.jar
